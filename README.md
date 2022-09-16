@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adetola
-- 👀 I’m interested in developing my data aanalytics skillsets
+- 👀 I’m interested in developing my data analytics skillsets
 - 🌱 I’m currently relearning spreadsheets, SQL and visualization tools 
 - 📫 How to reach me; https://www.linkedin.com/in/adetola-fagbule-b270821bb/
 <!---- 💞️ I’m looking to collaborate on ...--->
